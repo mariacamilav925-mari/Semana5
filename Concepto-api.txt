@@ -1,0 +1,4 @@
+pregunta8:
+respuesta:
+
+Esta ruta recibe información enviada al servidor, toma el dato que llega llamado "mensaje" y responde devolviendo un mensaje de confirmación junto con el texto que se envió. En una aplicación comunitaria serviría para que los vecinos o usuarios puedan enviar reportes, avisos, sugerencias o alertas sobre problemas del barrio, permitiendo registrar esa información de forma organizada.
