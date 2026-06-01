@@ -1,0 +1,5 @@
+pregunta7:
+respuesta:
+Al ingresar a http://localhost:3000 se muestra el mensaje: Servidor activo
+Al ingresar a http://localhost:3000/saludo se muestra el mensaje: Hola comunidad
+Al ingresar a http://localhost:3000/mensaje/juan se muestra el mensaje: Hola juan
